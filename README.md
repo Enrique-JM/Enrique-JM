@@ -47,8 +47,8 @@ Durante mi formación en **TripleTen** desarrollé proyectos prácticos en predi
 
 ## 📊 Estadísticas de GitHub  
 
-![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=enrique-jmae&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enrique-jmae&layout=compact&theme=radical)
+![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enrique-JM&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrique-JM&layout=compact&theme=radical)
 
 ---
 
