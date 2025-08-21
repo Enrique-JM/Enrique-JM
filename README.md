@@ -32,7 +32,8 @@ Durante mi formación en **TripleTen** desarrollé proyectos prácticos en predi
 ## 📌 Proyectos Destacados
 
 - 🔍 [**Predicción de churn en clientes de telecomunicaciones**]
-(https://github.com/Enrique-JM/Prediccion-de-churn-en-Interconnect.git)  
+  
+    (https://github.com/Enrique-JM/Prediccion-de-churn-en-Interconnect.git)  
   Modelo de clasificación con F1 > 0.75.  
 
 - 🎮 [**Análisis del éxito de videojuegos**](link_al_repo)  
