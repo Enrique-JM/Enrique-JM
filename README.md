@@ -4,7 +4,9 @@
 
 ---
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-## 🧑‍💻 Sobre mí  
+
+# 🧑‍💻 Sobre mi
+
 Soy Científico de Datos con formación en Criminología y más de **7 años de experiencia** aplicando análisis estadístico y minería de datos para la toma de decisiones estratégicas en seguridad y negocios.  
 
 Me apasiona convertir datos en conocimiento útil a través de **Python, SQL, Machine Learning y Visualización de Datos**.  
