@@ -40,7 +40,7 @@ Durante mi formación en **TripleTen** desarrollé proyectos prácticos en predi
 - 🚖 **Predicción de demanda de taxis** --> [https://github.com/Enrique-JM/Sweet-Lift-Taxi-.git].  
   Modelo de series temporales con RMSE < 48.  
 
-- 💳 [**Detección de deserción bancaria**](link_al_repo)  
+- 💳 **Detección de deserción bancaria** --> [https://github.com/Enrique-JM/Beta-Bank.git]  
   Comparación de modelos con métricas F1 y AUC-ROC.  
 
 - ⚒️ [**Optimización de extracción de oro**](link_al_repo)  
