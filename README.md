@@ -37,7 +37,7 @@ Durante mi formación en **TripleTen** desarrollé proyectos prácticos en predi
 - 🎮 [**Análisis del éxito de videojuegos**](link_al_repo)  
   Exploración de patrones y predicción de ventas globales.  
 
-- 🚖 [**Predicción de demanda de taxis**](gh repo clone Enrique-JM/Sweet-Lift-Taxi-)  
+- 🚖 [**Predicción de demanda de taxis**] (gh repo clone Enrique-JM/Sweet-Lift-Taxi-)  
   Modelo de series temporales con RMSE < 48.  
 
 - 💳 [**Detección de deserción bancaria**](link_al_repo)  
